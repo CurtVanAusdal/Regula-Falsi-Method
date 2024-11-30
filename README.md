@@ -1,0 +1,1 @@
+Regula Falsi Method Demonstrated in python. 
